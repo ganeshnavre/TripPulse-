@@ -1,4 +1,4 @@
-#TripPulse Data Analysis
+# TripPulse Data Analysis
 A comprehensive data analysis project on travel datasets, focusing on data cleaning, preprocessing, exploratory data analysis (EDA), and visualization.
 The objective is to uncover customer preferences, seasonal travel trends, and actionable business insights through data storytelling.
 
