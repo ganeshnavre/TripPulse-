@@ -2,7 +2,7 @@
 A comprehensive data analysis project on travel datasets, focusing on data cleaning, preprocessing, exploratory data analysis (EDA), and visualization.
 The objective is to uncover customer preferences, seasonal travel trends, and actionable business insights through data storytelling.
 
- Project Highlights
+ ## Project Highlights:
  Cleaned and preprocessed raw datasets for accuracy and consistency
 
  Conducted EDA to discover key trends and customer behavior patterns
@@ -11,21 +11,23 @@ The objective is to uncover customer preferences, seasonal travel trends, and ac
 
  Automated reporting workflows in Jupyter Notebook to reduce manual effort
 
- Tech Stack
+## Tech Stack
 Programming: Python
 
-Libraries: Pandas, NumPy, Matplotlib, Seaborn
+## Libraries:
+Pandas, NumPy, Matplotlib, Seaborn
 
-Environment: Jupyter Notebook
+## Environment: 
+Jupyter Notebook
 
- Key Insights
+ ## Key Insights
  Seasonal travel patterns significantly impact booking volumes
 
  Customer preferences vary across demographics and regions
 
  Automation reduces reporting time and enhances efficiency
 
- Project Structure
+ ## Project Structure
  <img width="726" height="429" alt="image" src="https://github.com/user-attachments/assets/19d9821f-764f-4c48-841d-d240849fcbf5" />
  <img width="601" height="482" alt="image" src="https://github.com/user-attachments/assets/d93ebef4-8c1b-4fbb-b586-0047371b3373" />
 <img width="583" height="476" alt="image" src="https://github.com/user-attachments/assets/e224f3ab-71f6-49f3-8f44-7ce3ab710601" />
